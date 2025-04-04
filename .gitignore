@@ -1,0 +1,15 @@
+reg-auth.json
+Registration id.json
+node_modules/
+.env
+node_modules/
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+package-lock.json
+package.json
